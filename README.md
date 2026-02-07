@@ -1,4 +1,4 @@
-<img width="947" height="549" alt="image" src="https://github.com/user-attachments/assets/f625ab8d-4c93-48db-ae15-6a68884f80af" /><img width="947" height="549" alt="image" src="https://github.com/user-attachments/assets/941500a1-fe1f-48c8-a6e6-68ff48aaa614" /># Secure Authentication Web Application
+# Secure Authentication Web Application
 
 ## Objective
 The objective of this project is to design and implement a simple web-based
